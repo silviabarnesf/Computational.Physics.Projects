@@ -1,6 +1,5 @@
 Build up the same matrix using at least 7 different ways, including Monte Carlo, Gaussian quadratic, Trapezoidal and Simpson Integration methods; and quantum computing logic gates based on 1-qubit basis states.
 
-
 import numpy as np
 import scipy.integrate as spi
 from scipy.integrate import quad
